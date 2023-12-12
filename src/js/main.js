@@ -1,3 +1,6 @@
+
+
+
 $(function() {
 
     $('ul.benefits__list').on('click', 'li:not(.active)', function() {
@@ -19,4 +22,5 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     })
 })
+
 

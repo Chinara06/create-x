@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83be2ed3-c4f6-4a0f-af6d-e35aee8c0b21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/post-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/post-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/post.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/subscribe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/subscribe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/swiper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/styles" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -47,14 +62,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Amin_stors\Desktop\createX\src\assets\styles" />
-      <recent name="C:\Users\Amin_stors\Desktop\createX\src\assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Amin_stors\Desktop\createX\src\assets" />
       <recent name="C:\Users\Amin_stors\Desktop\createX\src\js" />
       <recent name="C:\Users\Amin_stors\Desktop\createX\src\assets\styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amin_stors\Desktop\createX\src\assets\styles" />
+      <recent name="C:\Users\Amin_stors\Desktop\createX\src\assets" />
     </key>
   </component>
   <component name="StructureViewFactory">
@@ -110,7 +125,27 @@
       <workItem from="1702050441211" duration="1378000" />
       <workItem from="1702110419812" duration="7052000" />
       <workItem from="1702121285946" duration="3856000" />
-      <workItem from="1702125332508" duration="1439000" />
+      <workItem from="1702125332508" duration="2114000" />
+      <workItem from="1702128643285" duration="181000" />
+      <workItem from="1702140119254" duration="3000" />
+      <workItem from="1702141155547" duration="1302000" />
+      <workItem from="1702196665983" duration="9000" />
+      <workItem from="1702200961337" duration="27000" />
+      <workItem from="1702201325019" duration="94000" />
+      <workItem from="1702219779530" duration="25000" />
+      <workItem from="1702271787148" duration="144000" />
+      <workItem from="1702297040442" duration="1577000" />
+      <workItem from="1702300517703" duration="283000" />
+      <workItem from="1702301511790" duration="184000" />
+      <workItem from="1702302598212" duration="33000" />
+      <workItem from="1702302735783" duration="45000" />
+      <workItem from="1702302869854" duration="24000" />
+      <workItem from="1702303191155" duration="132000" />
+      <workItem from="1702303471935" duration="33000" />
+      <workItem from="1702303958168" duration="24000" />
+      <workItem from="1702382000522" duration="798000" />
+      <workItem from="1702383157095" duration="3576000" />
+      <workItem from="1702386854712" duration="2418000" />
     </task>
     <servers />
   </component>

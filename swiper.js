@@ -21,8 +21,8 @@ var swiper2 = new Swiper(".team__swiper", {
         nextEl: ".team__next",
         prevEl: ".team__prev",
     },
-autoplay: {
+    autoplay: {
         delay: 2000
-},
-loop: true
+    },
+    loop: true
 });
