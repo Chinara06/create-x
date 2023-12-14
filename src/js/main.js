@@ -23,4 +23,12 @@ document.addEventListener("DOMContentLoaded", function() {
     })
 })
 
+let burger = document.querySelector( '.header__burger')
+let burgerMenu = document.querySelector( '.header__burgerMenu')
+
+burger.addEventListener('click',() => {
+    burger.classList.toggle('active')
+    burgerMenu.classList.toggle('active')
+})
+
 
