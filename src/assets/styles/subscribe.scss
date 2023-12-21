@@ -1,8 +1,10 @@
 .subscribe{
   background: #ffdad5;
   padding: 120px;
+  position: relative;
 &__row{
   align-items: center;
+
 }
   &__suptitle{
     color: var(--gray-900, #1E212C);
@@ -31,12 +33,12 @@
     border: 1px solid var(--gray-400, #D7DADD);
     background: var(--white, #FFF);
     margin-left: 280px;
+    margin-bottom: 180px;
   }
     &__field {
       color: var(--gray-600, #9A9CA5);
       font-size: 16px;
       font-weight: 400;
-
       border: none;
     }
   &__btns{
@@ -59,12 +61,12 @@
   }
   &__left{
     position: absolute;
-    right: 0;
-    bottom: 0;
+    left: 0px;
+    bottom:0px;
   }
   &__right{
     position: absolute;
-    left: 0;
-    bottom: 0;
+    right: 0px;
+    bottom: 0px;
 }
 }
