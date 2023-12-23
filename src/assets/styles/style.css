@@ -429,6 +429,9 @@
   background: var(--white, #FFF);
   box-shadow: 0px 4px 4px -4px rgba(30, 33, 44, 0.03), 0px 12px 10px -6px rgba(154, 156, 165, 0.04), 0px 30px 24px -10px rgba(154, 156, 165, 0.05), 0px 80px 80px -20px rgba(154, 156, 165, 0.08);
 }
+.featured__card-img {
+  width: 100%;
+}
 .featured__card-info {
   padding: 32px;
 }
@@ -474,6 +477,26 @@
   font-weight: 700;
 }
 
+@media (max-width: 886px) {
+  .featured__card {
+    flex-direction: column;
+  }
+  .featured__card-img {
+    height: 350px;
+    object-fit: cover;
+  }
+}
+@media (max-width: 576px) {
+  .featured__card-img {
+    max-width: 300px;
+    object-fit: contain;
+  }
+}
+@media (max-width: 500px) {
+  .featured__card {
+    width: 100%;
+  }
+}
 .benefits {
   padding-bottom: 120px;
 }

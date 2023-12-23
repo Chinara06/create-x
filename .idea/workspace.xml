@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83be2ed3-c4f6-4a0f-af6d-e35aee8c0b21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/logo (1).svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/featured.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/featured.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/styles/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/subscribe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/subscribe.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/swiper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +193,18 @@
       <workItem from="1703145402187" duration="114000" />
       <workItem from="1703145593802" duration="21000" />
       <workItem from="1703160798642" duration="1660000" />
+      <workItem from="1703162619106" duration="175000" />
+      <workItem from="1703164051840" duration="60000" />
+      <workItem from="1703164493588" duration="35000" />
+      <workItem from="1703165169576" duration="90000" />
+      <workItem from="1703240544433" duration="11000" />
+      <workItem from="1703241402104" duration="71000" />
+      <workItem from="1703321396644" duration="11000" />
+      <workItem from="1703321457136" duration="612000" />
+      <workItem from="1703322878658" duration="50000" />
+      <workItem from="1703333121748" duration="103000" />
+      <workItem from="1703333290881" duration="17000" />
+      <workItem from="1703333422421" duration="2020000" />
     </task>
     <servers />
   </component>
